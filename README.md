@@ -1,6 +1,6 @@
 # ¡Hola, soy Ana! 👋
 
-Soy una desarrolladora junior web full stack con experiencia en tecnologías inmersivas. Me formé en un bootcamp súperintensivo de 8 meses en Factoria F5,
+Soy una desarrolladora junior web full stack con experiencia en tecnologías inmersivas. Me formé en un bootcamp súper intensivo de 8 meses en Factoria F5,
 financiado por la AEM. ¡Fue una suerte ser seleccionada junto con otros compañeros entre muchos candidatos para participar en este curso altamente competitivo!
 
 ## Acerca de mí
