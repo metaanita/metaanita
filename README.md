@@ -11,10 +11,10 @@ Fue financiado por la Agencia para el Empleo de Madrid. ¡Fue una suerte ser sel
 - 💻 Tecnologías: Frontend - HTML, CSS, JavaScript, React, Vite, Typescript, Bootstrap, etc. Backend - Symfony, Express, MongoDB...
 - 🧪 Testing: He realizado pruebas utilizando Jest y Cypress.
 - 🎨 Diseño: Tengo experiencia en diseño utilizando herramientas como Figma, Canva, Miro, y Notion.
-- 👩‍💻 Comunicación: Soy una apasionada de la comunicación y las relaciones interpersonales. Tuve el rol de Product Owner en algún proyecto de equipo.
+- 👩‍💻 Comunicación: Soy una apasionada de la comunicación y las relaciones interpersonales.
 - 📚 Aprendizaje continuo: Siempre estoy aprendiendo a aprender y buscando oportunidades para consolidar nuevas tecnologías y mejorar mis habilidades.
      Recientemente, he estado interesada en profundizar en el desarrollo backend y en la ciberseguridad.
-- 🛡️ Ciberseguridad: Tengo nociones básicas de ciberseguridad, completando un curso de aproximadamente 7 meses con el INCIBE.
+- 🛡️ Ciberseguridad: Tengo nociones básicas de ciberseguridad, completando un curso de aproximadamente 6 meses con el INCIBE.
 - 💼 Comercio electrónico: También tengo nociones de comercio electrónico, completando un curso con el Ayuntamiento de Madrid sobre e-commerce.
 
 ## Idiomas
